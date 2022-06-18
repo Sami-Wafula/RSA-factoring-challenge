@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-m factors_functions import *
+from factors_functions import *
 if __name__ == '__main__':
 
     print(unix_time(print_factors))
